@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <h3>Hi, I'm Nikki. I play stupid games and win stupid prizes.</h3>
+  Hi, I'm Nikki. I play stupid games and win stupid prizes.
   
  </p>
 
