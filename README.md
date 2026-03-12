@@ -13,5 +13,5 @@
   Hi, I'm Nikki. I play stupid games and win stupid prizes.
   Haven't been adding much lately, working full time kinda does that to a mf
  </p>
-<p>Play Shin Megami Tensei IV Apocalypse for the Green Ghost and his stupid brother</p>
+<p align="center">Play Shin Megami Tensei IV Apocalypse for the Green Ghost and his stupid brother</p>
 
