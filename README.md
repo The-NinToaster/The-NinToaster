@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  Hi, I'm Nikki. I play stupid games and win stupid prizes.
-  Haven't been adding much lately, working full time kinda does that to a mf
+  Hi, I'm Nikki. I play stupid games and win stupid prizes. I got laid off a few months ago, but i get to do more dumb things again with more time in my hands.
  </p>
 <p align="center">Play Shin Megami Tensei IV Apocalypse for the Green Ghost and his stupid brother</p>
 
