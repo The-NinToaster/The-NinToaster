@@ -5,7 +5,7 @@
 <p align="center">
   Hi, I'm Nikki. I play stupid games and win stupid prizes.</p>
   
-<p align="center">I got laid off a few months ago, but i get to do more dumb things again with more time in my hands.</p> 
+<p align="center">I got laid off a few months ago, but i get to do more dumb things again with more time in my hands. I also fork a lot of stuff as a copy, usually to tinker or as a mirror</p> 
 <p align="center">Play Shin Megami Tensei IV Duology for the Nintendo 3DS</p>
 
 <p align="center">
